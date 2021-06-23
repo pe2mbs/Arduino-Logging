@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map Logger
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Logging				    KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+critical				KEYWORD3
+error   				KEYWORD3
+warning 				KEYWORD2
+info				    KEYWORD2
+debug				    KEYWORD2
+hexdump     			KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+LEVEL_DEBUG             LITERAL1
+LEVEL_INFO              LITERAL1
+LEVEL_WARNING           LITERAL1
+LEVEL_ERROR             LITERAL1
+LEVEL_CRITICAL          LITERAL1
+LEVEL_NOTSET            LITERAL1
+
